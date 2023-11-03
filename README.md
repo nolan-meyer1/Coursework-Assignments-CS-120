@@ -26,3 +26,9 @@ nolan.meyer_adventureEditor_blackbelt.py is a text adventure game editor
   2. Save the game your editing to a json file.
   3. Create a game
   4. Play the game
+
+Turn Based Combat
+  1. tbc_blackbelt contains is the file that contains the character class and the functions to control the game.
+  2. The nolan.meyer_blackbelt_combat is the file that runs the game.
+  3. In this game you can fight againts a built in character or you can fight againts a friend!
+  4. You are also able to create your own character and save it to the game file which is tbc_gameData.json file. 
