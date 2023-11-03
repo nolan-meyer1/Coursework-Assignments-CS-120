@@ -35,5 +35,6 @@ Turn Based Combat
 
 Asteriod Game
   1. This is an asteriod game kind of like space invaders.
-  2. In this folder there are all the files you will need downloaded to run the game.
-  3. Have fun!
+  2. This was done using a Game Engine created by my instructor which is also attatched in the folder.
+  3. All the files needed to run the game are included in the folder.
+  4. Have fun!
