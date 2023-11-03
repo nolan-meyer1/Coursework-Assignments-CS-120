@@ -1,0 +1,86 @@
+{
+  "Zombie": [
+    "Zombie",
+    10,
+    30,
+    5,
+    0
+  ],
+  "Dragon": [
+    "Dragon",
+    50,
+    40,
+    20,
+    5
+  ],
+  "Alien": [
+    "Alien",
+    15,
+    50,
+    5,
+    5
+  ],
+  "Vampire": [
+    "Vampire",
+    20,
+    30,
+    10,
+    2
+  ],
+  "Werewolf": [
+    "Werewolf",
+    15,
+    30,
+    7,
+    0
+  ],
+  "Ogre": [
+    "Ogre",
+    15,
+    40,
+    15,
+    2
+  ],
+  "Gremlin": [
+    "Gremlin",
+    10,
+    30,
+    5,
+    0
+  ],
+  "Giant": [
+    "Giant",
+    30,
+    50,
+    15,
+    3
+  ],
+  "Minotaur": [
+    "Minotaur",
+    30,
+    50,
+    20,
+    4
+  ],
+  "Boogieman": [
+    "Boogieman",
+    15,
+    30,
+    10,
+    0
+  ],
+  "Slime": [
+    "Slime",
+    10,
+    40,
+    10,
+    0
+  ],
+  "Yeti": [
+    "Yeti",
+    30,
+    40,
+    35,
+    2
+  ]
+}
